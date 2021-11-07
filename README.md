@@ -2,6 +2,7 @@
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning C++,other .
 - 💞️ I'm studying in Kasetsart University.
+- :D  using IDE Vscode.
 - 📫 Thank you!
 
 
