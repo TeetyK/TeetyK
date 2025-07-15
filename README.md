@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @TeetyK
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning C++,other .
-- 💞️ I'm studying in Kasetsart University.
+- 💞️ I'm educated in Kasetsart University.
 - 📫 Thank you!
-- 💙 Skill : C/C++ (Basic, Arduino ESP32 , GUI , DPP_master bot discord , Socket , OpenGL ) , HTML/CSS (SCSS , TailwindCSS , BootStrap 5) /JavaScript , SQL , Java (Basic , GUI ) , C# (Basic,ASP.NET MVC) , TypeScript (Basic , RestAPI , Angular , ReactJS) , Assembly (Basic)
-- 💚 Skill : Python (Basic , ML , DP , Pandas , numpy , Scikitlearn , Tkinter , YoLOV4 ) , R (Basic ) , Flutter (Andriod Studio , Dart ) , React Native
-- 😆 Skill Tester : Java (JUnit) , Katalon Studio , Postman
-- 💗: Competitive : Code Agoda
+- 💙 Libraries & Language : C/C++ (Basic, Arduino ESP32 , GUI , DPP_master bot discord , Socket , OpenGL ) , HTML/CSS (SCSS , TailwindCSS , BootStrap 5) /JavaScript , SQL , Java (Basic , GUI ) , C# (Basic,ASP.NET MVC) , TypeScript (Basic , RestAPI , Angular , ReactJS) , Assembly (Basic)
+- 💚 Libraries & Language : Python (Basic , ML , DP , Pandas , numpy , Scikitlearn , Tkinter , YoLOV4 , LLMChatBOT:RAG) , R (Basic ) , Flutter (Andriod Studio , Dart ) , React Native
+- 😆 Tester : Java (JUnit) , Katalon Studio , Postman
+- 💗: Competitive : Code Agoda 2023
 - ❤️: Pratice Code : beta.programming.in.th , borntodev lab , leetcode
 
 <!---
