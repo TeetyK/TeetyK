@@ -31,9 +31,11 @@
   - GUI (Tkinter)  
   - LLM ChatBot (RAG + PostgreSQL)  
 - **R (Basic)**  
-- **Mobile Development**  
-  - Flutter & Dart, React Native  
 
+---
+### 🔸 Mobile Development 
+  - Flutter & Dart, React Native
+  - Kolin (will be pratice)  
 ---
 
 ### 🔹 Testing Tools  
