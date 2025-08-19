@@ -16,7 +16,10 @@
   - HTML / CSS (SCSS, TailwindCSS, Bootstrap 5)  
   - JavaScript, TypeScript (REST API, Angular, ReactJS)  
 - **Databases**  
-  - SQL, PostgreSQL  
+  - Microsoft SQL Server
+  - PostgreSQL
+  - Oracle
+  - MySQL   
 - **Others**  
   - Java (Basic, GUI)  
   - C# (Basic, ASP.NET MVC)  
