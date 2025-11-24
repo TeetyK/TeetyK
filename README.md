@@ -2,7 +2,7 @@
 
 ## 👀 About Me  
 - 💻 Passionate about **programming** and continuous learning  
-- 🎓 Educated at **Kasetsart University**  
+- 🎓 Educated at **Kasetsart University** in **Thailand**
 - 🌱 Currently learning **C++** and exploring new technologies  
 
 ---
@@ -24,29 +24,18 @@
   - Java (Basic, GUI)  
   - C# (Basic, ASP.NET MVC)  
   - Assembly (Basic)  
-
----
-
-### 🔸 Data Science & AI  
 - **Python**  
   - ML, Data Processing (Pandas, NumPy, Scikit-learn)  
   - Computer Vision (YOLOv4)  
   - GUI (Tkinter)  
   - LLM ChatBot (RAG + PostgreSQL)  
-- **R (Basic)**  
-
----
-### 🔸 Mobile Development 
+- **Mobile Application**  
   - Flutter & Dart, React Native
   - Kolin (will be pratice)  
----
-
-### 🔹 Testing Tools  
+- **Testing Tools**  
 - Java (JUnit)  
 - Katalon Studio  
-- Postman  
-
----
+- Postman
 
 ## 🏆 Competitive & Practice  
 - 💗 **CodeAgoda 2023** (Competitive Programming)  
