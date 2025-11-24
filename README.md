@@ -10,20 +10,13 @@
 ## 💙 Tech Stack  
 |Language|Libraries or Framework|
 |---|---|
-|**C/C++**||
-|Framework & Libraries|GUI(Win32) , Arduino (ESP32), Discord Bot(DPP_master), Socket , OpenGL|
-|**HTML/CSS**||
-|Framework & Libraries|SCSS , TailwindCSS , Bootstrap 5|
-|**JavaScript & TypeScript**||
-|Framework & Libraries|REST API , Angular , ReactJS|
-|**Database**||
-|DBMS|Microsoft SQL Server , PostgreSQL , Oracle , MySQL |
-|**Java**||
-|Framework & Libraries|GUI(SwingUI) , JUnit|
-|**C#**||
-|Framework & Libraries|ASP.NET MVC|
-|**Python**||
-|Framework & Libraries|Pandas , NumPy , Scikit-learn , tensor-flow , keras , pytorch , tkinter|
+|**C/C++**|GUI(Win32) , Arduino (ESP32), Discord Bot(DPP_master), Socket , OpenGL|
+|**HTML/CSS**|SCSS , TailwindCSS , Bootstrap 5|
+|**JavaScript & TypeScript**|REST API , Angular , ReactJS|
+|**Database**|Microsoft SQL Server , PostgreSQL , Oracle , MySQL |
+|**Java**|GUI(SwingUI) , JUnit|
+|**C#**|ASP.NET MVC|
+|**Python**|Pandas , NumPy , Scikit-learn , tensor-flow , keras , pytorch , tkinter|
 |**AI & ML & DL**||
 |**Regression**|Linear regression , Polynomial regression , Lasso regression , Ridge regression , Elastic Net , Huber Regression , BayesianRidge Regression , Quantile Regression|
 |Neural Network|MLP , RNN |
@@ -31,12 +24,9 @@
 |**Classification**|Logistic Regressiion , Decision Tree , Random Forest , XGBoost|
 |**Clustering**|K-Mean , KNN|
 |**Computer Vision**|CNN , MobilenetV2 SSD , YOLOv5 , YOLOv8 , YOLOv11|
-|**Chat Bot**||
-|Model|ollama3.2|
-|**Mobile Application**||
-|Framework & Libraries|Flutter & Dart , React Native , Kolin (will be pratice)|
-|**Testing Tools**||
-|Tools|Katalon Studio , Postman|
+|**Chat Bot**|ollama3.2 + RAG|
+|**Mobile Application**|Flutter & Dart , React Native , Kolin (will be pratice)|
+|**Testing Tools**|Katalon Studio , Postman|
 
 ## 🏆 Competitive & Practice  
 - 💗 **CodeAgoda 2023** (Competitive Programming)  
