@@ -62,10 +62,10 @@
 ||YOLOv8|
 ||YOLOv11|
 ||CHATBOT (RAG)|
-|**Monile Application**|Flutter & Dart|
+|**Mobile Application**|Flutter & Dart|
 ||React Native|
 ||Kolin (will be pratice)|
-|Testing Tools|Katalon Studio|
+|**Testing Tools**|Katalon Studio|
 ||Postman|
 
 ## 🏆 Competitive & Practice  
