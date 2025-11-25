@@ -28,8 +28,8 @@
 |**Mobile Application**|Flutter & Dart , React Native , Kolin (will be pratice)|
 |**Testing Tools**|Katalon Studio , Postman|
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/teetyk2?theme=dark&ext=heatmap)
-![LeetCode Stats](https://leetcard.jacoblin.cool/teetyk?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/teetyk2?theme=dark&ext=lang)
+![LeetCode Stats](https://leetcard.jacoblin.cool/teetyk?theme=dark&ext=lang)
 
 ## 🏆 Competitive & Practice  
 - 💗 **CodeAgoda 2023** (Competitive Programming)  
