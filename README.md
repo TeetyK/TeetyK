@@ -3,7 +3,7 @@
 ## 👀 About Me  
 - 💻 Passionate about **programming** and continuous learning  
 - 🎓 Educated at **Kasetsart University** in **Thailand**
-- 🌱 Currently learning **C++** and exploring new technologies  
+- 🌱 Learning and exploring new technologies  
 
 ---
 
@@ -29,7 +29,6 @@
 |**Testing Tools**|Katalon Studio , Postman|
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/teetyk2?theme=dark&ext=lang)
-![LeetCode Stats](https://leetcard.jacoblin.cool/teetyk?theme=dark&ext=lang)
 
 ## 🏆 Competitive & Practice  
 - 💗 **CodeAgoda 2023** (Competitive Programming)  
