@@ -20,9 +20,23 @@
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-- **Regression & Classification:** ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost) `Linear` `Random Forest` `Decision Tree`
-- **Computer Vision:** `CNN` `YOLO (v5, v8, v11)` `MobileNetV2`
-- **NLP & ChatBot:** `Ollama 3.2` `RAG`
+- **Regression & Classification**
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
+  ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost) 
+  ![Linear](https://img.shields.io/badge/Linear%20Reg-00599C?style=flat-square&logo=chart.js&logoColor=white) 
+  ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square&logo=treehouse&logoColor=white) 
+  ![Decision Tree](https://img.shields.io/badge/Decision%20Tree-32CD32?style=flat-square&logo=pagseguro&logoColor=white)
+
+- **Computer Vision**
+  ![CNN](https://img.shields.io/badge/CNN-Neural%20Network-red?style=flat-square&logo=PyTorch&logoColor=white) 
+  ![YOLO](https://img.shields.io/badge/YOLO%20v5/8/11-00FFFF?style=flat-square&logo=target&logoColor=black) 
+  ![MobileNet](https://img.shields.io/badge/MobileNetV2-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white) 
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+- **NLP & ChatBot**
+  ![Ollama](https://img.shields.io/badge/Ollama%203.2-000000?style=flat-square&logo=ollama&logoColor=white) 
+  ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-blueviolet?style=flat-square&logo=databricks&logoColor=white) 
+  ![ChatBot](https://img.shields.io/badge/ChatBot-AI-FF69B4?style=flat-square&logo=probot&logoColor=white)
 
 ### 🗄️ Database & Tools
 
