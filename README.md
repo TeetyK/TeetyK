@@ -42,7 +42,6 @@
 ### 🗄️ Database & Tools
 
 ![MS SQL Server](https://img.shields.io/badge/MSSQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Katalon](https://img.shields.io/badge/Katalon%20Studio-3CB371?style=for-the-badge&logo=katalon-studio&logoColor=white)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/teetyk2?theme=dark&ext=lang)
