@@ -3,7 +3,8 @@
 ## 👀 About Me  
 - 💻 Passionate about **programming** and continuous learning  
 - 🎓 Educated at **Kasetsart University** in **Thailand**
-- 🌱 Learning and exploring new technologies  
+- 🌱 Learning and exploring new technologies
+- 🥇 Improving Skill everything for survival in Real World
 
 ---
 
